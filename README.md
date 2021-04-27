@@ -7,3 +7,7 @@ Ethereum : 0xdb05eff0dac3e51f880a492c5b9dc373439c5c90
 Doge : D6r3Yf8GhchR8KCL1Ajorx5wzAzk5brjjv
 
 Tron : TBMsdfhyc54YzxHR47PSq9wrMonHQWFbtt
+
+Manero : 8BNHP2bff8fPJKT42CEaChNME34xiV2msS9iigEtRRSeRDDnWWjF8L62cYWvcMDzvX3TyuYPvNwxJS2G1Ckd4qNaHxd4RHb
+
+Litecoin : MPVh3cw7BPPxwPkuM3jNNB2TJebnVpYgdm
